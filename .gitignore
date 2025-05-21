@@ -1,0 +1,22 @@
+# Zig build artifacts
+zig-cache/
+zig-out/
+
+# Object files
+*.o
+*.zig.o
+
+# Zig cache files
+*.zig.cache
+
+# Executables
+*.exe
+
+# Dynamic link libraries
+*.dll
+
+# Shared object files
+*.so
+
+# Debug symbols (macOS)
+*.dSYM
